@@ -1,10 +1,10 @@
 {
   "functions": {
     "api/server-time.py": {
-      "runtime": "python3.9"
+      "runtime": "@vercel/python@4.1.0"
     },
     "api/candle-history.py": {
-      "runtime": "python3.9"
+      "runtime": "@vercel/python@4.1.0"
     }
   }
 }
