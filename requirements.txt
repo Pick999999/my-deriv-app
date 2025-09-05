@@ -1,0 +1,14 @@
+websockets==11.0.3
+asyncio
+
+# package.json (ถ้าต้องการ frontend)
+{
+  "name": "deriv-websocket-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'",
+    "start": "echo 'Serverless functions'"
+  },
+  "dependencies": {}
+}

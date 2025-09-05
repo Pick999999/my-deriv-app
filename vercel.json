@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/server-time.py": {
+      "runtime": "python3.9"
+    },
+    "api/candle-history.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
